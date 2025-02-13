@@ -3,7 +3,6 @@
 **Proyecto Universitario - Taller de MVC**
 
 Este es un proyecto desarrollado para la gestión de inventarios, permitiendo a los usuarios registrar, actualizar y visualizar productos, así como llevar un control de ventas y transacciones.
-Esta herramienta permite a los usuarios rastrear y administrar el inventario de una pequeño negocio.
 
 ## 🚀 Características
 - Autenticación de usuarios.
